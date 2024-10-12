@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lamtdang
 - 👀 I’m interested in anything Software Engineering
-- 🌱 I’m currently reading Cloud Native Go
+- 🌱 I’m currently reading Build an Orchestrator in Go
 - 💞️ I’m looking to collaborate on small open-source projects
 - 📫 How to reach me: lamtdang98@gmail.com
 
